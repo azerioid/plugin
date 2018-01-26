@@ -2,7 +2,7 @@
 class edit  {
      public function __construct() {
        
-      //test 
+      echo "Hello World :)";
        }
             
 }
